@@ -3,6 +3,23 @@
 
 @import "jekyll-theme-minimal";
 
-h1 {
-  color: magenta;
+<section class="style-headers">
+  <h1>Title</h1>
+  <h2>Subheading</h2>
+</section>
+
+/* Apply dark purple to all headers inside a section with the class .purple-headers */
+.style-headers h1,
+.style-headers h2
+{
+  font-family: 'Futura', sans-serif;
+  font-weight: bold;
+  color: #480875; /* Dark purple */
+}
+
+body {
+  font-family: 'Garamond', serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: black; /* Example color */
 }
