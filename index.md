@@ -44,15 +44,13 @@ title: "Chiara Alicia Wooldridge"
     <p>
       Outside of my studies and work, I have the privilege of being able to invest my time into various social engagements 
       in university life.
-
       In autumn 2024, I joined the board of the Informatics Club (ICU) in the Studies position. After having received so much support
       and community from this association in my first year of my studies, I am even more excited to be able to give back from the other
       side. As part of my membership in the ICU, I am also a member in the student council of the UZH, the VSUZH 
       (Verband der Studierenden Schweiz). The ICU is part of the second largest fraction (fvoec x ICU) in this council of 70 seats, 
       having 14 seats shared with the economics association (fvoec). As of autumn 2024, after having been an active representative from 
       almost a year, I took over the co-lead of the fraction together with a fellow co-lead from the fvoec. 
-
-      In spring 2024, together with fellow co-students, I founded the local task force of the University
+    In spring 2024, together with fellow co-students, I founded the local task force of the University
       of Zurich as part of the Una Europa alliance. 
     </p>
     <h2>Personal interests</h2>
