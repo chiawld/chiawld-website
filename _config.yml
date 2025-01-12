@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: [Chiara Alicia Wooldridge]
+description: [A personal website to practice git & basic web development]
