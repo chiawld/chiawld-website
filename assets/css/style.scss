@@ -17,7 +17,13 @@ a:hover {
 
 
 /* Apply dark purple to all headers inside a section with the class .style-headers */
-.style-headers h1,
+.style-headers h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #712aa3; /* Dark purple */
+}
+
 .style-headers h2
 {
   font-family: 'Montserrat', sans-serif;
