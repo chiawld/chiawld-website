@@ -3,7 +3,20 @@
 
 @import "jekyll-theme-minimal";
 
-/* Apply dark purple to all headers inside a section with the class .purple-headers */
+/* Change the color of all links */
+a {
+  color: #2d0947; /* Dark purple color */
+  text-decoration: none; /* Optional: removes underline */
+}
+
+/* Change the color of links when hovered over */
+a:hover {
+  color: #9d6bbf; /* Lighter shade of purple for hover effect */
+  text-decoration: underline; /* Optional: underline links on hover */
+}
+
+
+/* Apply dark purple to all headers inside a section with the class .style-headers */
 .style-headers h1,
 .style-headers h2
 {
