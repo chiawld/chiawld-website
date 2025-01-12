@@ -38,18 +38,27 @@ footer {
   background-color: #f1f1f1;
   text-align: center;
   font-family: 'Garamond', serif;
-}
-
-footer a {
-  color: #712aa3; /* Dark purple */
-  text-decoration: none;
-}
-
-footer a:hover {
-  color: #3b0066; /* Darker purple on hover */
+  position; relative; /* Ensures it stays within the flow */
+  margin.top: 20px; /* Ensure space between content and footer */
 }
 
 footer p {
   margin: 10px 0;
   font-size: 14px;
+}
+
+footer a {
+  color: #4f0e7d; /* Dark purple */
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #9d6bbf; /* Light purple on hover */
+}
+
+/* clearfix for .wrapper */
+.wrapper::after {
+  content: "";
+  display: table;
+  clear: both;
 }
