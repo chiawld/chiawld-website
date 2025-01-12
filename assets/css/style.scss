@@ -17,13 +17,7 @@ a:hover {
 
 
 /* Apply dark purple to all headers inside a section with the class .style-headers */
-.style-headers h1
-{
-  font-family: 'Montserrat', sans-serif;
-  font-weight: bold;
-  color: #712aa3; /* Dark purple */
-}
-
+.style-headers h1,
 .style-headers h2
 {
   font-family: 'Montserrat', sans-serif;
@@ -36,4 +30,26 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: black; /* Example color */
+}
+
+footer {
+  clear: both;  /* Clears any floating elements inside the footer */
+  padding: 20px;
+  background-color: #f1f1f1;
+  text-align: center;
+  font-family: 'Garamond', serif;
+}
+
+footer a {
+  color: #712aa3; /* Dark purple */
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #3b0066; /* Darker purple on hover */
+}
+
+footer p {
+  margin: 10px 0;
+  font-size: 14px;
 }
