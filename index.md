@@ -4,7 +4,7 @@ title: "Chiara Alicia Wooldridge"
 ---
 
 # Hi there, I'm Chiara!</h1>
-! [This is me](DSC02853-min.JPG) {: style="width: 25%; height: auto"}
+<img src="DSC02853-min.JPG" alt="This is me" style="width: 25%; height: auto;">
 
 This is a personal project of mine, where I am dabbling in web development and trying to create a first website myself.
 I'm a second year Informatics and Social Sciences student at the University of Zurich. My major is Software Systems and my minor is a blend of history, society and politics.
